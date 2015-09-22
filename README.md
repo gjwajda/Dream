@@ -9,5 +9,7 @@ Content:
 
 -If you need a challenge, try "Infinite Running Mode"! Your character will never stop running!
 
+Check it out on GooglePlay! https://play.google.com/store/apps/details?id=com.gregwajda.Dream
+
 
 Created by Greg Wajda
